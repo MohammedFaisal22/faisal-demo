@@ -1,4 +1,4 @@
 # faisal-demo
-this is my first reposittory
+this is my first repository
 <br>
 Author- Mohammed Faisal Khan
